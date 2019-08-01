@@ -1,8 +1,7 @@
 .header {
-    height: 4rem;
-    position: relative;
-    padding: 1rem 2rem;
-    background: rgba(45, 8, 177, 0.705);
+    /* height: 4rem; */
+    /* position: relative; */
+    padding: 2rem 2rem;
     
     &__logo {
         position: absolute;
